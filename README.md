@@ -1,11 +1,11 @@
 # ST_School Javascript Loops test
 
-##TASKS
 
+## TASKS
 ### Task 1 
 - Using for loop, print out the first 6 numbers starting from 8, but terminate the loop once you find a number that is divisible by 5.
 
-## Task 2 
+### Task 2 
 - Using a while loop, calculate the factorial of 12.
 
 ### Task 3
