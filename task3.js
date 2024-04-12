@@ -1,11 +1,8 @@
 // Printing out the multiplication for 13 till 13 * 20
 
-let num = 13;
-let a = 1;
-
-while (num > 1){
-    a = a * num;
-    num --;
+const num = 13
+let a
+for (let i = 1; i <= 20; i++){
+    a = num * i
+    console.log(`${num} * ${i} = ${a}`)
 }
-
-console.log(a);
